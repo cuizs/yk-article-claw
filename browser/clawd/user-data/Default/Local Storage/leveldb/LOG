@@ -1,0 +1,86 @@
+2026/03/12-19:51:42.949 6c73 Recovering log #14
+2026/03/12-19:51:43.003 6c73 Delete type=0 #14
+2026/03/12-19:51:43.003 6c73 Delete type=3 #12
+2026/03/12-19:53:08.697 6c73 Level-0 table #18: started
+2026/03/12-19:53:08.705 6c73 Level-0 table #18: 31003 bytes OK
+2026/03/12-19:53:08.713 6c73 Delete type=0 #16
+2026/03/12-19:53:08.714 6c73 Compacting 4@0 + 0@1 files
+2026/03/12-19:53:08.718 6c73 Generated table #19@0: 63 keys, 31577 bytes
+2026/03/12-19:53:08.719 6c73 Compacted 4@0 + 0@1 files => 31577 bytes
+2026/03/12-19:53:08.721 6c73 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/03/12-19:53:08.724 6c73 Delete type=2 #13
+2026/03/12-19:53:08.724 6c73 Delete type=2 #10
+2026/03/12-19:53:08.724 6c73 Delete type=2 #7
+2026/03/12-19:53:08.724 6c73 Delete type=2 #18
+2026/03/12-20:58:28.934 6c75 Level-0 table #21: started
+2026/03/12-20:58:28.937 6c75 Level-0 table #21: 22421 bytes OK
+2026/03/12-20:58:28.939 6c75 Delete type=0 #17
+2026/03/12-22:04:37.709 6c75 Level-0 table #23: started
+2026/03/12-22:04:37.711 6c75 Level-0 table #23: 23496 bytes OK
+2026/03/12-22:04:37.713 6c75 Delete type=0 #20
+2026/03/12-23:12:17.541 6c75 Level-0 table #25: started
+2026/03/12-23:12:17.544 6c75 Level-0 table #25: 23207 bytes OK
+2026/03/12-23:12:17.546 6c75 Delete type=0 #22
+2026/03/13-00:22:36.632 6c75 Level-0 table #27: started
+2026/03/13-00:22:36.638 6c75 Level-0 table #27: 23949 bytes OK
+2026/03/13-00:22:36.642 6c75 Delete type=0 #24
+2026/03/13-00:22:36.643 6c75 Compacting 4@0 + 1@1 files
+2026/03/13-00:22:36.648 6c75 Generated table #28@0: 67 keys, 31826 bytes
+2026/03/13-00:22:36.648 6c75 Compacted 4@0 + 1@1 files => 31826 bytes
+2026/03/13-00:22:36.650 6c75 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/03/13-00:22:36.651 6c75 Delete type=2 #21
+2026/03/13-00:22:36.651 6c75 Delete type=2 #19
+2026/03/13-00:22:36.651 6c75 Delete type=2 #25
+2026/03/13-00:22:36.651 6c75 Delete type=2 #23
+2026/03/13-00:22:36.651 6c75 Delete type=2 #27
+2026/03/13-01:32:17.543 6c75 Level-0 table #30: started
+2026/03/13-01:32:17.546 6c75 Level-0 table #30: 24677 bytes OK
+2026/03/13-01:32:17.548 6c75 Delete type=0 #26
+2026/03/13-02:42:17.507 6c75 Level-0 table #32: started
+2026/03/13-02:42:17.509 6c75 Level-0 table #32: 23644 bytes OK
+2026/03/13-02:42:17.511 6c75 Delete type=0 #29
+2026/03/13-03:49:37.709 6c75 Level-0 table #34: started
+2026/03/13-03:49:37.713 6c75 Level-0 table #34: 23356 bytes OK
+2026/03/13-03:49:37.715 6c75 Delete type=0 #31
+2026/03/13-04:57:17.452 6c75 Level-0 table #36: started
+2026/03/13-04:57:17.455 6c75 Level-0 table #36: 23751 bytes OK
+2026/03/13-04:57:17.457 6c75 Delete type=0 #33
+2026/03/13-04:57:17.457 6c75 Compacting 4@0 + 1@1 files
+2026/03/13-04:57:17.463 6c75 Generated table #37@0: 67 keys, 31828 bytes
+2026/03/13-04:57:17.463 6c75 Compacted 4@0 + 1@1 files => 31828 bytes
+2026/03/13-04:57:17.465 6c75 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/03/13-04:57:17.465 6c75 Delete type=2 #36
+2026/03/13-04:57:17.465 6c75 Delete type=2 #30
+2026/03/13-04:57:17.466 6c75 Delete type=2 #34
+2026/03/13-04:57:17.466 6c75 Delete type=2 #32
+2026/03/13-04:57:17.466 6c75 Delete type=2 #28
+2026/03/13-06:07:17.430 6c73 Level-0 table #39: started
+2026/03/13-06:07:17.433 6c73 Level-0 table #39: 23909 bytes OK
+2026/03/13-06:07:17.435 6c73 Delete type=0 #35
+2026/03/13-07:16:37.709 6c75 Level-0 table #41: started
+2026/03/13-07:16:37.712 6c75 Level-0 table #41: 23760 bytes OK
+2026/03/13-07:16:37.714 6c75 Delete type=0 #38
+2026/03/13-08:25:37.710 6c73 Level-0 table #43: started
+2026/03/13-08:25:37.714 6c73 Level-0 table #43: 23760 bytes OK
+2026/03/13-08:25:37.716 6c73 Delete type=0 #40
+2026/03/13-09:32:17.462 6c75 Level-0 table #45: started
+2026/03/13-09:32:17.465 6c75 Level-0 table #45: 23595 bytes OK
+2026/03/13-09:32:17.472 6c75 Delete type=0 #42
+2026/03/13-09:32:17.476 6c75 Compacting 4@0 + 1@1 files
+2026/03/13-09:32:17.485 6c75 Generated table #46@0: 67 keys, 31836 bytes
+2026/03/13-09:32:17.485 6c75 Compacted 4@0 + 1@1 files => 31836 bytes
+2026/03/13-09:32:17.486 6c75 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/03/13-09:32:17.487 6c75 Delete type=2 #41
+2026/03/13-09:32:17.487 6c75 Delete type=2 #39
+2026/03/13-09:32:17.487 6c75 Delete type=2 #45
+2026/03/13-09:32:17.487 6c75 Delete type=2 #43
+2026/03/13-09:32:17.488 6c75 Delete type=2 #37
+2026/03/13-10:45:33.072 6c75 Level-0 table #48: started
+2026/03/13-10:45:33.076 6c75 Level-0 table #48: 23625 bytes OK
+2026/03/13-10:45:33.078 6c75 Delete type=0 #44
+2026/03/13-11:55:37.718 6c75 Level-0 table #50: started
+2026/03/13-11:55:37.732 6c75 Level-0 table #50: 23747 bytes OK
+2026/03/13-11:55:37.735 6c75 Delete type=0 #47
+2026/03/13-13:57:17.540 6c75 Level-0 table #52: started
+2026/03/13-13:57:17.543 6c75 Level-0 table #52: 23767 bytes OK
+2026/03/13-13:57:17.545 6c75 Delete type=0 #49

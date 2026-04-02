@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "jobs": [
+    {
+      "id": "a66d146d-abbf-410f-9dd2-f310281adfd8",
+      "agentId": "main",
+      "name": "医疗健康新闻抓取发布",
+      "enabled": true,
+      "createdAtMs": 1773898362147,
+      "updatedAtMs": 1775092056290,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 9 * * *",
+        "tz": "Asia/Shanghai"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "执行医疗健康行业新闻抓取任务：\n\n1. 访问以下网站抓取最新行业热点：\n   - 生物谷 (https://news.bioon.com/)\n   - 动脉网 (https://www.vbdata.cn/)\n   - 医药魔方 (https://www.pharmcube.com/)\n\n2. 汇总今日最重要的3-5条新闻\n\n3. 撰写一篇专业深度型公众号文章：\n   - 标题吸引人\n   - 包含数据和分析\n   - 目标受众：投资人\n   - 字数：1500-2500字\n\n4. 完成后提醒小崔检查并发布",
+        "timeoutSeconds": 600
+      },
+      "delivery": {
+        "mode": "announce"
+      },
+      "state": {
+        "nextRunAtMs": 1775179800000,
+        "lastRunAtMs": 1775092056291,
+        "lastStatus": "ok",
+        "lastDurationMs": 144478
+      }
+    }
+  ]
+}
