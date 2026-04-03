@@ -1,7 +1,7 @@
 {
   "agent:jkyun:wecom:group:wruga6aaaab0mlovif0qafhzfvmqngcq": {
-    "sessionId": "9ee5a5e8-9e86-4061-9f66-b42590ddfde1",
-    "updatedAt": 1775031625856,
+    "sessionId": "dde88d62-2397-4ff0-8dfc-d57ea15fe26f",
+    "updatedAt": 1775099478147,
     "systemSent": true,
     "abortedLastRun": false,
     "displayName": "wecom:g-wruga6aaaab0mlovif0qafhzfvmqngcq",
@@ -25,7 +25,7 @@
       "to": "wecom:wruga6aAAAB0MLOvif0qAFHzfvMqnGcQ",
       "accountId": "default"
     },
-    "sessionFile": "/home/admin/.openclaw/agents/jkyun/sessions/9ee5a5e8-9e86-4061-9f66-b42590ddfde1.jsonl",
+    "sessionFile": "/home/admin/.openclaw/agents/jkyun/sessions/dde88d62-2397-4ff0-8dfc-d57ea15fe26f.jsonl",
     "compactionCount": 0,
     "skillsSnapshot": {
       "prompt": "\n\nThe following skills provide specialized instructions for specific tasks.\nUse the read tool to load a skill's file when the task matches its description.\nWhen a skill file references a relative path, resolve it against the skill directory (parent of SKILL.md / dirname of the path) and use that absolute path in tool commands.\n\n<available_skills>\n  <skill>\n    <name>wecom-doc</name>\n    <description>文档与智能表格操作。当用户提到企业微信文档、创建文档、编辑文档、新建文档、写文档、智能表格时激活。支持文档创建/写入和智能表格的创建及子表/字段/记录写入。注意：所有企业微信文档创建和编辑请求都应使用此 skill，不要尝试用其他方式处理文档操作。</description>\n    <location>/home/admin/.openclaw/extensions/wecom-openclaw-plugin/skills/wecom-doc/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>clawhub</name>\n    <description>Use the ClawHub CLI to search, install, update, and publish agent skills from clawhub.com. Use when you need to fetch new skills on the fly, sync installed skills to latest or a specific version, or publish new/updated skill folders with the npm-installed clawhub CLI.</description>\n    <location>/home/admin/.npm-global/lib/node_modules/openclaw/skills/clawhub/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>healthcheck</name>\n    <description>Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS).</description>\n    <location>/home/admin/.npm-global/lib/node_modules/openclaw/skills/healthcheck/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>skill-creator</name>\n    <description>Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.</description>\n    <location>/home/admin/.npm-global/lib/node_modules/openclaw/skills/skill-creator/SKILL.md</location>\n  </skill>\n  <skill>\n    <name>weather</name>\n    <description>Get current weather and forecasts (no API key required).</description>\n    <location>/home/admin/.npm-global/lib/node_modules/openclaw/skills/weather/SKILL.md</location>\n  </skill>\n</available_skills>",
@@ -90,16 +90,16 @@
       ],
       "version": 0
     },
-    "inputTokens": 132,
-    "outputTokens": 255,
-    "totalTokens": 15809,
+    "inputTokens": 11679,
+    "outputTokens": 625,
+    "totalTokens": 12555,
     "modelProvider": "bailian",
     "model": "glm-5",
     "contextTokens": 202752,
     "systemPromptReport": {
       "source": "run",
-      "generatedAt": 1775031617712,
-      "sessionId": "9ee5a5e8-9e86-4061-9f66-b42590ddfde1",
+      "generatedAt": 1775099457477,
+      "sessionId": "dde88d62-2397-4ff0-8dfc-d57ea15fe26f",
       "sessionKey": "agent:jkyun:wecom:group:wruga6aaaab0mlovif0qafhzfvmqngcq",
       "provider": "bailian",
       "model": "glm-5",
@@ -110,9 +110,9 @@
         "sandboxed": false
       },
       "systemPrompt": {
-        "chars": 24220,
+        "chars": 24719,
         "projectContextChars": 13863,
-        "nonProjectContextChars": 10357
+        "nonProjectContextChars": 10856
       },
       "injectedWorkspaceFiles": [
         {

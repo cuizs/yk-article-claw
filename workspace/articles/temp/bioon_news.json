@@ -3,176 +3,185 @@
   "news": [
     {
       "source": "生物谷",
-      "title": "Adv Sci：天津医科大学赵阳团队构建新的纳米酶，用于级联酶疗及增强型放射免疫治疗",
-      "link": "http://news.bioon.com/article/1a63931e5094.html",
-      "summary": "本研究构建了一种透明质酸（HA）包覆的锰‑铂（MnPt）双金属纳米酶（HD@MnO₂），通过整合酶级联反应与cGAS–STING通路激活，实现乳腺癌高效放射免疫治疗。",
-      "date": "2026-03-19",
-      "category": "其他",
-      "investment_score": 0
-    },
-    {
-      "source": "生物谷",
-      "title": "JCI：同济大学崔磊等首次发现谷氨酰胺代谢障碍是骨关节炎发生发展的关键驱动因素",
-      "link": "http://news.bioon.com/article/7948931e48b4.html",
-      "summary": "该研究首次揭示，谷氨酰胺代谢障碍是骨关节炎发生发展的关键驱动因素，并发现其下游代谢物α-酮戊二酸（αKG）可通过表观遗传调控逆转软骨细胞的代谢失衡，为骨关节炎的治疗提供了全新靶点。",
-      "date": "2026-03-18",
-      "category": "生物技术",
-      "investment_score": 3
-    },
-    {
-      "source": "生物谷",
-      "title": "Cell子刊：陆军军医大学甘翼搏等团队揭示TRPV4介导的力学信号调控椎间盘程序性重塑，为退行性疾病防治提供新视角",
-      "link": "http://news.bioon.com/article/53589316829f.html",
-      "summary": "本研究揭示了一种调控椎间盘力学适应性发育与终身稳态的基础胶原生成程序，为理解脊柱功能及相关治疗策略提供了新思路。",
-      "date": "2026-03-18",
-      "category": "其他",
-      "investment_score": 5
-    },
-    {
-      "source": "生物谷",
-      "title": "Adv Sci：中南大学邓沱团队首次揭示脂肪组织中新型黏附巨噬细胞亚群，其通过“窃取”脂肪细胞mRNA调控代谢稳态",
-      "link": "http://news.bioon.com/article/57e49316838a.html",
-      "summary": "结果表明，在肥胖状态下，ARMs是ATMs中最主要扩增的亚群。ARMs通过与脂肪细胞直接黏附获取脂肪细胞的mRNA，进而增强其脂质处理能力。",
-      "date": "2026-03-18",
-      "category": "生物技术",
-      "investment_score": 3
-    },
-    {
-      "source": "生物谷",
-      "title": "近40%装载效率，滞留超6小时：J Control Release研究为妇科药物递送开辟新路径",
-      "link": "http://news.bioon.com/article/016e931e60a8.html",
-      "summary": "本研究通过基因工程将模型蛋白靶向至细菌周质空间，结合培养条件优化使外膜囊泡装载效率达39.55%，并在小鼠模型中证实其阴道给药相容性与滞留能力，为妇科疾病治疗提供新平台。",
-      "date": "2026-03-18",
-      "category": "创新药",
-      "investment_score": 0
-    },
-    {
-      "source": "生物谷",
-      "title": "IF=53！中山大学王雪晶等团队通过随机双盲试验证实，重复粪便微生物移植可安全有效缓解新发帕金森病",
-      "link": "http://news.bioon.com/article/69e1931684bc.html",
-      "summary": "重复的粪便微生物移植是安全的、耐受性良好的，并在未接受药物治疗的帕金森病患者中产生了有意义的运动和胃肠方面的临床改善，提供了整合的机制和临床证据，表明针对微生物群的调节是一种有前景的非药物性治疗策略。",
-      "date": "2026-03-18",
-      "category": "生物技术",
-      "investment_score": 5
-    },
-    {
-      "source": "生物谷",
-      "title": "Exploration：中山大学文卫平/涂召旭团队发现针对cfDNA/NETs和细菌感染的多靶点干预策略可以在缓解鼻部炎症的同时恢复微生态的平衡",
-      "link": "http://news.bioon.com/article/acab931685e3.html",
-      "summary": "该研究发现了一种同时针对cfDNA/NETs以及细菌感染的多靶点干预策略，不仅能够有效缓解鼻部炎症，还可以恢复气道微生态平衡，为顽固性气道炎症疾病的治疗提供了新的思路。",
-      "date": "2026-03-18",
-      "category": "其他",
-      "investment_score": 0
-    },
-    {
-      "source": "生物谷",
-      "title": "医图生科入选2025十大量子计算应用案例，榜单唯一创新药企业，从研究探索走向产业应用",
-      "link": "http://news.bioon.com/article/3f7e93191466.html",
-      "summary": "近日，在光子盒举办的第二届量子年会上，2025年度&quot;Quantum10中国量子公司十大创新典范用例&quot;评选结果正式发布。医图生科凭借&quot;",
-      "date": "2026-03-18",
-      "category": "创新药",
-      "investment_score": 0
-    },
-    {
-      "source": "生物谷",
-      "title": "心碎综合征是怎么一回事儿？Sci Rep：细胞外囊泡揭开心尖“罢工”的真相",
-      "link": "http://news.bioon.com/article/815f930e7348.html",
-      "summary": "来自瑞典的科学家们通过研究发现，心碎综合征患者的长期死亡风险与心梗患者相当，那么问题来了：为什么同在一个心脏里，心尖部“瘫了”，而心底部却还在正常跳动？这两个紧挨着的区域，到底发生了什么不同的事？",
-      "date": "2026-03-18",
-      "category": "生物技术",
-      "investment_score": 0
-    },
-    {
-      "source": "生物谷",
-      "title": "Adv Sci：引发全身性抗肿瘤疗效！同济大学任胜祥等团队发现肺癌潜在治疗新策略",
-      "link": "http://news.bioon.com/article/3cb0931686dd.html",
-      "summary": "本研究证实，CXCL10⁺巨噬细胞与 CXCR3⁺ T 细胞是冷冻消融在晚期 NSCLC 中诱导全身抗肿瘤免疫的关键介导因子。",
-      "date": "2026-03-18",
-      "category": "生物技术",
-      "investment_score": 4
-    },
-    {
-      "source": "生物谷",
-      "title": "Science子刊：无需开刀的新武器？首个人体试验证实5-ALA声动力疗法治疗侵袭性脑癌安全可行",
-      "link": "http://news.bioon.com/article/a79f93153607.html",
-      "summary": "研究为 5-ALA 声动力疗法作为一种治疗复发性高级别胶质瘤的新型治疗方式提供了关键的概念验证证据。",
-      "date": "2026-03-18",
-      "category": "创新药",
-      "investment_score": 5
-    },
-    {
-      "source": "生物谷",
-      "title": "IF=53！陈春英/赵浩团队开发新的纳米酶前药系统，实现原位癌症疫苗治疗",
-      "link": "http://news.bioon.com/article/5ca393168e8b.html",
-      "summary": "该研究设计了一种导电配位纳米酶前药——Cu–DHN。其π共轭的多酚主链作为内在的“电子高速公路”，能够实现快速的电子穿梭，利用整个纳米粒子体积进行催化，从而达到卓越的过氧化物酶类似活性。",
-      "date": "2026-03-18",
+      "title": "肿瘤转移不是“扩散”，而是“重建”！《Cell》揭示乳腺癌转移性生长的三维形态发生蓝图",
+      "link": "http://news.bioon.com/article/111293339226.html",
+      "summary": "该研究将转移性肿瘤的生长与三维发育的形态发生过程联系起来，从而揭示了在致命的大量转移阶段特有的治疗弱点。",
+      "date": "2026-04-03",
       "category": "其他",
       "investment_score": 9
     },
     {
       "source": "生物谷",
-      "title": "Cell子刊：郑州大学刘军杰/史进进/张振中发现单纯疱疹病毒性脑炎的潜在治疗新策略",
-      "link": "http://news.bioon.com/article/db0493168806.html",
-      "summary": "受病毒通过识别宿主细胞表面的nectin‑1入侵细胞的机制启发，本研究构建了高表达nectin‑1的去核间充质干细胞（eMSCs），作为“诱饵细胞”捕获HSV‑1。",
-      "date": "2026-03-18",
-      "category": "生物技术",
+      "title": "植入膀胱的“智能管家”！Nature Communications：可植入柔性膀胱接口实现监测与治疗一体化",
+      "link": "http://news.bioon.com/article/c0b6931e74be.html",
+      "summary": "本研究研发出可植入柔性膀胱-机界面，能适配膀胱大形变，同步实现监测与电刺激治疗，显著降低脊髓损伤大鼠非排尿性收缩频率，为神经源性膀胱治疗提供新方案。",
+      "date": "2026-04-03",
+      "category": "AI+ 医疗",
+      "investment_score": 9
+    },
+    {
+      "source": "生物谷",
+      "title": "PNAS：安徽医科大学孟晓明等团队锁定一个RNA修饰酶，抑制它可有效缓解肾脏炎症",
+      "link": "http://news.bioon.com/article/dd479333936d.html",
+      "summary": "该研究结果表明，NSUN7通过调控SPARC成为肾脏炎症的关键驱动因子，并凸显了其作为炎症性肾脏疾病治疗靶点的潜力。",
+      "date": "2026-04-03",
+      "category": "其他",
+      "investment_score": 0
+    },
+    {
+      "source": "生物谷",
+      "title": "Leukemia：抗癌药不再“杀敌一千自损八百”？上海药物所周宇波/徐田锋/李佳设计出智能导弹式药物，只摧毁癌细胞的关键部件，保护血液健康",
+      "link": "http://news.bioon.com/article/abf0933394ff.html",
+      "summary": "该研究确立了CXJ2080作为一种具有增强疗效和降低血液毒性的新一代CDK7靶向治疗药物，在急性白血病治疗中展现出巨大潜力。",
+      "date": "2026-04-03",
+      "category": "创新药",
+      "investment_score": 0
+    },
+    {
+      "source": "生物谷",
+      "title": "Cell Death &amp; Differ：浙江大学金洪传等团队鉴定结直肠癌新靶点WIP1，其抑制剂联合STING激动剂可有效逆转免疫抑制",
+      "link": "http://news.bioon.com/article/a76a93338224.html",
+      "summary": "本研究首次揭示WIP1是肿瘤内在STING激活的双功能抑制因子，并建立了一种合理设计的“STING-WIP1协同靶向”策略以逆转免疫治疗耐药。",
+      "date": "2026-04-02",
+      "category": "创新药",
+      "investment_score": 9
+    },
+    {
+      "source": "生物谷",
+      "title": "Sci Adv：父亲的压力会影响孩子！安徽医科大学王华团队揭示父代重金属暴露通过精子m6A修饰，导致后代多代运动障碍的分子机制",
+      "link": "http://news.bioon.com/article/55949333816d.html",
+      "summary": "本研究结果确立了CG9593/ANGPTL4作为父系获得性多代运动障碍的一个进化保守性决定因子，并有望成为可药物干预的靶点。",
+      "date": "2026-04-02",
+      "category": "其他",
+      "investment_score": 0
+    },
+    {
+      "source": "生物谷",
+      "title": "日程安排--新酶设计与酶技术应用专题培训班",
+      "link": "http://news.bioon.com/article/415593345233.html",
+      "summary": "为了紧跟产业链发展需求，加强人才建设，我单位决定于2026年4月24-26日在湖北武汉市举办第五期“新酶设计与酶技术应用专题培训班”。",
+      "date": "2026-04-02",
+      "category": "其他",
+      "investment_score": 0
+    },
+    {
+      "source": "生物谷",
+      "title": "Nat Commun：双管齐下！同时阻断CD47和CD24，显著提升脑肿瘤免疫疗效",
+      "link": "http://news.bioon.com/article/383f931538ca.html",
+      "summary": "在这项研究中，研究人员发现了另一种&quot;别吃我&quot;信号——CD24，它在GBM肿瘤中也高度表达，并研究了单独或同时阻断CD47和CD24并结合免疫疗法的效果。",
+      "date": "2026-04-02",
+      "category": "创新药",
+      "investment_score": 4
+    },
+    {
+      "source": "生物谷",
+      "title": "Cell：激酶药物发现迎来新范式！牛津大学雷鸣团队报道理性设计策略，成功开发出PAK1变构激活剂并治疗心脏肥大",
+      "link": "http://news.bioon.com/article/d3eb933368b0.html",
+      "summary": "这些研究结果表明，对激酶自身抑制调节的合理调控是一种潜在的策略，有助于更广泛地发现激酶激活剂，而这一领域在治疗药物开发方面尚未得到充分探索。",
+      "date": "2026-04-02",
+      "category": "其他",
       "investment_score": 5
     },
     {
       "source": "生物谷",
-      "title": "JCI：早干预，早治疗，中山大学司瑜等揭示儿童特纳综合征中雌激素缺乏与听力损失风险",
-      "link": "http://news.bioon.com/article/2959931689ff.html",
-      "summary": "TS患儿持续的雌激素缺乏独立地增加了长期听力损失的风险。至关重要的是，青春期早期开始外源性ERT显著降低了这种风险，强调了及时补充雌激素对TS患者听觉健康的重要性。",
-      "date": "2026-03-18",
-      "category": "临床研究",
-      "investment_score": 0
+      "title": "“人工智能赋能药物研发全过程创新技术实践”高级研修班中国科学院人才交流开发中心",
+      "link": "http://news.bioon.com/article/a2cd933451c3.html",
+      "summary": "为加快推进人工智能与药物研发创新技术深度融合，培养适应未来发展需求的复合型创新人才，我中心定于2026年4月底举办“人工智能赋能药物研发全过程应用实践”高级研修班。",
+      "date": "2026-04-02",
+      "category": "AI+ 医疗",
+      "investment_score": 5
+    },
+    {
+      "source": "生物谷",
+      "title": "分子之心登Nature子刊：AI精准设计蛋白，生物经济驶入智能快车道",
+      "link": "http://news.bioon.com/article/c4139316360c.html",
+      "summary": "近日，AI蛋白质设计领域领军企业分子之心，携手天津大学、海南大学、南方科技大学、杜克大学等顶尖科研机构，在国际权威期刊《Nature Communications》上联合发表一项具有里程碑意义的研究成",
+      "date": "2026-04-02",
+      "category": "生物技术",
+      "investment_score": 18
+    },
+    {
+      "source": "生物谷",
+      "title": "为什么乳腺癌治愈多年，人还是“没劲”？JAHA研究给出答案",
+      "link": "http://news.bioon.com/article/6c3d931e7004.html",
+      "summary": "最新研究发现，乳腺癌幸存者即使在治愈近十年后，其交感神经仍处于过度激活状态，血管功能减退，这是导致她们运动能力下降、远期心血管风险增高的关键生理基础。",
+      "date": "2026-04-02",
+      "category": "其他",
+      "investment_score": 8
+    },
+    {
+      "source": "生物谷",
+      "title": "Cell子刊：南方医科大学荆志成团队提出肺栓塞治疗&quot;更安全&quot;的溶栓方案",
+      "link": "http://news.bioon.com/article/7c379333e007.html",
+      "summary": "研究结果表明，与rt-PA相比，rhPro-UK倾向于导致早期血流动力学改善，并且似乎具有较低的非大出血事件风险。",
+      "date": "2026-04-02",
+      "category": "其他",
+      "investment_score": 5
+    },
+    {
+      "source": "生物谷",
+      "title": "抗癌卫士变“脑内破坏者”：《Nature》首次追踪到，肿瘤内产生的抗神经抗体，如何从“低配哨兵”升级为“高攻导弹”，误伤大脑引发脑炎",
+      "link": "http://news.bioon.com/article/6dcb93336904.html",
+      "summary": "该研究验证了三阴性乳腺癌（TNBC）中 GluN1 和 GluN2B NMDAR 亚基的异位表达，并使用具有可诱导表达 GluN1–GluN2B NMDAR 的原位 TNBC 肿瘤来模拟这一情况。",
+      "date": "2026-04-02",
+      "category": "其他",
+      "investment_score": 17
+    },
+    {
+      "source": "生物谷",
+      "title": "Cell Death &amp; Differ：东南大学吴秀文/任建安等团队揭示微管解聚通过GEF-H1激活ZBP1转录，驱动坏死性凋亡",
+      "link": "http://news.bioon.com/article/05a8933358c4.html",
+      "summary": "该研究揭示了GEF-H1-DHX9信号通路在微管去稳定化诱导的ZBP1依赖性坏死性凋亡中的转录调控功能。",
+      "date": "2026-04-02",
+      "category": "其他",
+      "investment_score": 5
     }
   ],
   "top5": [
     {
       "source": "生物谷",
-      "title": "IF=53！陈春英/赵浩团队开发新的纳米酶前药系统，实现原位癌症疫苗治疗",
-      "link": "http://news.bioon.com/article/5ca393168e8b.html",
-      "summary": "该研究设计了一种导电配位纳米酶前药——Cu–DHN。其π共轭的多酚主链作为内在的“电子高速公路”，能够实现快速的电子穿梭，利用整个纳米粒子体积进行催化，从而达到卓越的过氧化物酶类似活性。",
-      "date": "2026-03-18",
+      "title": "分子之心登Nature子刊：AI精准设计蛋白，生物经济驶入智能快车道",
+      "link": "http://news.bioon.com/article/c4139316360c.html",
+      "summary": "近日，AI蛋白质设计领域领军企业分子之心，携手天津大学、海南大学、南方科技大学、杜克大学等顶尖科研机构，在国际权威期刊《Nature Communications》上联合发表一项具有里程碑意义的研究成",
+      "date": "2026-04-02",
+      "category": "生物技术",
+      "investment_score": 18
+    },
+    {
+      "source": "生物谷",
+      "title": "抗癌卫士变“脑内破坏者”：《Nature》首次追踪到，肿瘤内产生的抗神经抗体，如何从“低配哨兵”升级为“高攻导弹”，误伤大脑引发脑炎",
+      "link": "http://news.bioon.com/article/6dcb93336904.html",
+      "summary": "该研究验证了三阴性乳腺癌（TNBC）中 GluN1 和 GluN2B NMDAR 亚基的异位表达，并使用具有可诱导表达 GluN1–GluN2B NMDAR 的原位 TNBC 肿瘤来模拟这一情况。",
+      "date": "2026-04-02",
+      "category": "其他",
+      "investment_score": 17
+    },
+    {
+      "source": "生物谷",
+      "title": "肿瘤转移不是“扩散”，而是“重建”！《Cell》揭示乳腺癌转移性生长的三维形态发生蓝图",
+      "link": "http://news.bioon.com/article/111293339226.html",
+      "summary": "该研究将转移性肿瘤的生长与三维发育的形态发生过程联系起来，从而揭示了在致命的大量转移阶段特有的治疗弱点。",
+      "date": "2026-04-03",
       "category": "其他",
       "investment_score": 9
     },
     {
       "source": "生物谷",
-      "title": "Cell子刊：陆军军医大学甘翼搏等团队揭示TRPV4介导的力学信号调控椎间盘程序性重塑，为退行性疾病防治提供新视角",
-      "link": "http://news.bioon.com/article/53589316829f.html",
-      "summary": "本研究揭示了一种调控椎间盘力学适应性发育与终身稳态的基础胶原生成程序，为理解脊柱功能及相关治疗策略提供了新思路。",
-      "date": "2026-03-18",
-      "category": "其他",
-      "investment_score": 5
+      "title": "植入膀胱的“智能管家”！Nature Communications：可植入柔性膀胱接口实现监测与治疗一体化",
+      "link": "http://news.bioon.com/article/c0b6931e74be.html",
+      "summary": "本研究研发出可植入柔性膀胱-机界面，能适配膀胱大形变，同步实现监测与电刺激治疗，显著降低脊髓损伤大鼠非排尿性收缩频率，为神经源性膀胱治疗提供新方案。",
+      "date": "2026-04-03",
+      "category": "AI+ 医疗",
+      "investment_score": 9
     },
     {
       "source": "生物谷",
-      "title": "IF=53！中山大学王雪晶等团队通过随机双盲试验证实，重复粪便微生物移植可安全有效缓解新发帕金森病",
-      "link": "http://news.bioon.com/article/69e1931684bc.html",
-      "summary": "重复的粪便微生物移植是安全的、耐受性良好的，并在未接受药物治疗的帕金森病患者中产生了有意义的运动和胃肠方面的临床改善，提供了整合的机制和临床证据，表明针对微生物群的调节是一种有前景的非药物性治疗策略。",
-      "date": "2026-03-18",
-      "category": "生物技术",
-      "investment_score": 5
-    },
-    {
-      "source": "生物谷",
-      "title": "Science子刊：无需开刀的新武器？首个人体试验证实5-ALA声动力疗法治疗侵袭性脑癌安全可行",
-      "link": "http://news.bioon.com/article/a79f93153607.html",
-      "summary": "研究为 5-ALA 声动力疗法作为一种治疗复发性高级别胶质瘤的新型治疗方式提供了关键的概念验证证据。",
-      "date": "2026-03-18",
+      "title": "Cell Death &amp; Differ：浙江大学金洪传等团队鉴定结直肠癌新靶点WIP1，其抑制剂联合STING激动剂可有效逆转免疫抑制",
+      "link": "http://news.bioon.com/article/a76a93338224.html",
+      "summary": "本研究首次揭示WIP1是肿瘤内在STING激活的双功能抑制因子，并建立了一种合理设计的“STING-WIP1协同靶向”策略以逆转免疫治疗耐药。",
+      "date": "2026-04-02",
       "category": "创新药",
-      "investment_score": 5
-    },
-    {
-      "source": "生物谷",
-      "title": "Cell子刊：郑州大学刘军杰/史进进/张振中发现单纯疱疹病毒性脑炎的潜在治疗新策略",
-      "link": "http://news.bioon.com/article/db0493168806.html",
-      "summary": "受病毒通过识别宿主细胞表面的nectin‑1入侵细胞的机制启发，本研究构建了高表达nectin‑1的去核间充质干细胞（eMSCs），作为“诱饵细胞”捕获HSV‑1。",
-      "date": "2026-03-18",
-      "category": "生物技术",
-      "investment_score": 5
+      "investment_score": 9
     }
   ]
 }

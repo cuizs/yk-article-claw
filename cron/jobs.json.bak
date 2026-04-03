@@ -24,7 +24,7 @@
         "mode": "announce"
       },
       "state": {
-        "nextRunAtMs": 1775179800000,
+        "nextRunAtMs": 1775266200000,
         "lastRunAtMs": 1775092056291,
         "lastStatus": "ok",
         "lastDurationMs": 144478
